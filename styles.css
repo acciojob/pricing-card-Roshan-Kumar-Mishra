@@ -1,10 +1,21 @@
 /*  your css code here. If applicable */
-#101{
-	width:100px;
+.top{
+	align-item: center;
+	padding: 30px 0px 30px 30px;
+	border-style: solid;
+	align-item: center;
+	width:200px;
+	height:350px;
 }
-#102{
-	padding:10px;
-	background-color:red;
-	color:white;
-	border-radius:10px;
+.texts{
+	align-text: center;
+	
+}
+.text{
+	align-text:center;
+}
+#b{
+	border-radius: 5px;
+	padding:10px 10px 10px 10px;
+	
 }
